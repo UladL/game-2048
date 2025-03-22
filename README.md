@@ -12,3 +12,5 @@ A simple 2048 game where you merge tiles to reach 2048!
 JS,HTML,CSS
 
 🚀 How to Play
+
+https://uladl.github.io/game-2048/
